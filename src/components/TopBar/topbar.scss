@@ -1,0 +1,10 @@
+.topbar {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+
+    a {
+       color: white; 
+       text-decoration: none;
+    }
+}

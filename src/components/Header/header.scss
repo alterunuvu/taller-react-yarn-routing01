@@ -1,0 +1,15 @@
+.App-header {
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    background-color: black;
+    color: white;
+
+    .top-bar {
+        display: flex;
+        flex-direction: row;
+        gap: 30px;
+    }
+}
